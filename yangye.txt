@@ -5,3 +5,4 @@ is a person
 yagney is a student
 yangye dafdadfas
 insert = 1;
+insert = 2;
