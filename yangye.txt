@@ -4,3 +4,4 @@ is a good student
 is a person
 yagney is a student
 yangye dafdadfas
+insert = 1;
