@@ -6,3 +6,5 @@ yagney is a student
 yangye dafdadfas
 insert = 1;
 insert = 2;
+insert = 3；
+ins色让他 dasfasfdafadsfasdfafadsfas
